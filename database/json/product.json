@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Shirt",
+    "quantity" : "10",
+    "price" : " 400.50"
+  },
+  {
+    "name" : "pant",
+    "quantity" : "5",
+    "price" : " 800.50"
+  },
+  {
+    "name" : "panjabi",
+    "quantity" : "12",
+    "price" : " 5000.00"
+  },
+  {
+    "name" : "shari",
+    "quantity" : "8",
+    "price" : " 1500.50"
+  },
+  {
+    "name" : "CAP",
+    "quantity" : "5",
+    "price" : " 170.50"
+  },
+  {
+    "name" : "T-Shirt",
+    "quantity" : "10",
+    "price" : " 400.50"
+  }
+]
